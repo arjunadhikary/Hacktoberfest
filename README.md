@@ -58,7 +58,7 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 1. **Star this repository and Follow me on Github [here](https://github.com/arjunadhikary/).**
 2. **Navigate to `index.html` file**
    ![](resources/1.png)
-3. **Edit the file and insert the line of code in the specified location .**
+3. **Edit the file and insert the line of code in the specified location in the format as given in comment .**
    ![](resources/2.png)
    ![](resources/3.png)
 4. **Now click on Propose button.**
