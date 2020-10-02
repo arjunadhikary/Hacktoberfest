@@ -22,4 +22,4 @@ In the index file, look for the 'ol' tag. Then insert a 'li' tag with your link 
 
 ### Installation
 
-Make sure [git]("https://themakerssquad.github.io/") is installed.
+Make sure [git](https://themakerssquad.github.io/) is installed.
