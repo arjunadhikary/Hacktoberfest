@@ -15,7 +15,7 @@
 <div align="center">
   <sub>Built with ❤︎ by
   <a href="https://twitter.com/Codekavya">Code Kavya</a> and
-  <a href="https://github.com/Parajulibkrm/Hacktoberfest-Nepal/graphs/contributors">
+  <a href="https://github.com/arjunadhikary/Hacktoberfest/graphs/contributors">
     contributors
   </a>
 </div>
