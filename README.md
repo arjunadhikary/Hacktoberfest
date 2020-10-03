@@ -55,17 +55,17 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
 
-1. **Star this repository and Follow me on Github [here](https://github.com/Parajulibkrm/).**
-   ![](Images/star.png)
-   ![](Images/follow.png)
-2. **Navigate to `myname.txt` file**
-   ![](Images/open.png)
-3. **Edit the file and insert your name.**
-   ![](Images/edit.png)
+1. **Star this repository and Follow me on Github [here](https://github.com/arjunadhikary/).**
+2. **Navigate to `index.html` file**
+   ![](resources/1.png)
+3. **Edit the file and insert the line of code in the specified location in the format as given in comment .**
+   ![](resources/2.png)
+   ![](resources/3.png)
 4. **Now click on Propose button.**
-   ![](Images/propose.png)
+   ![](resources/4.png)
 5. **Create a new pull request.**
-   ![](Images/pull%20request.png)
+   ![](resources/5.png)
+   ![](resources/6.png)
 6. **Wait for your Pull Request to be reviewed and merged!**
 7. **Enjoy and welcome to Hacktoberfest 2020 and Keep Contributing :)**
 
@@ -73,7 +73,7 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 
 ## 🔥 What will happen after my contribution?
 
-I have created a simple page to display all contributors list [here](https://parajulibkrm.github.io/Hacktoberfest-Nepal/), your name should appear shortly after the pull request is merged.
+I have created a simple page to display all contributors list [here](https://arjunadhikary.github.io), your name should appear shortly after the pull request is merged.
 If you have participated in Hacktoberfest Meetup Nepal and created successful pull request in all the repositories mentioned below, you'll be eligible to win a free hosting acount from our sponsor.
 
 ---
@@ -83,4 +83,4 @@ If you have participated in Hacktoberfest Meetup Nepal and created successful pu
 - [Hacktoberfest-Simple-Practice-Programmes](https://github.com/bigyanic/Hacktoberfest-Simple-Practice-Programmes)
 - [the_poetry_forum](https://github.com/Sandesh-Sharma/the_poetry_forum)
 - [Hacktoberfest-Nepal-2020](https://github.com/Saugat-Adhikari/Hacktoberfest-Nepal-2020)
-- [Hacktoberfest](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
+- [Hacktoberfest-Nepal](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
