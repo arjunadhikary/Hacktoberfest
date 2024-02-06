@@ -1,99 +1,88 @@
-/* CSS Class */
-* {
-    box-sizing: border-box;
+@font-face {
+    font-family: "Header-font";
+    src: url("ButterCookie-Regular.otf");
 }
-
-body{
-    background-color: #a8dadc;
-    margin:20px;
+body
+{
+    margin: 15px;;
+    background-color: rgb(214, 223, 234);
 }
-
-h1{
-    padding-top: 2.5rem;
-    padding-bottom: 2rem;
-    margin: 0;
-    font-family: 'Dancing Script', cursive;
-}
-
-h2{
-    padding-bottom: 3.5rem;
-    font-weight: bold;
-    font-family: 'Zilla Slab', serif; 
-}
-
-p{
-    font-family: 'Zilla Slab', serif;   
-}
-
-a{
-    color: black;
-    font-family: 'Zilla Slab', serif;
-    font-size: 1.7rem;
-    content: justify;
-}
-
-.btn{
-    border-radius: 5%;
-    background-color: #a8dadc;
-    color: black;
-    font-family: 'Zilla Slab', serif;
-    font-weight: bold;
-}
-
-.btn:hover{
-    background-color: black;
-}
-
-.jumbotron-fluid{
-    padding: 10px;
-}
-
-.center h2{
+/* Start header */
+div.jumbotron-fluid
+{
+    background-color: rgb(128, 156, 241);
+    padding: 20px;
     text-align: center;
+    border-radius: 20px;
+    margin: 20px;
 }
-
-.center li{
-    text-align: center;
+div.jumbotron-fluid h1
+{
+    font-family: "Header-font";
+    font-size: 55px;
+    color: rgb(214, 223, 234);
+    text-shadow: 5px 4px rgb(2, 15, 88);
 }
-
-li {
-    list-style: none;
+.leadper
+{
+    color: rgb(2, 15, 88);
+    text-shadow: 1px 0px rgb(214, 223, 234);
+    font-size: 25px;
+    font-weight: bolder;
 }
-
-/* -------- */
-.header-bg{
-    background-color: #1f1f1d;
-}
-
-.jumbotron-fluid{
-    /* background-color: #f76c5e; */
+.lead
+{margin-top: 2cap;}
+.lead a
+{
+    color: rgb(2, 15, 88);
+    text-shadow: 1px 0px rgb(214, 223, 234);
+    border: 1px solid rgb(2, 15, 88) ;
+    padding: 13px;
+    border-radius: 15px 5px 15px 5px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: rgb(214, 223, 234);
     
+}
+.lead a:hover
+{
+    color:rgb(214, 223, 234) ;
+    background-color:rgb(2, 15, 88) ;
+    text-shadow: 5px 5px rgb(2, 15, 88);
+   border-radius: 5px 15px 5px 15px;
+}
+/* End header */
+@font-face {
+    font-family: "body-font";
+    src: url("Bohabey Font by 7Ntypes.otf");
+}
+h2
+{
+    font-family: "body-font";
+    font-size: 37px;
+    text-decoration:underline ;
+    color: rgb(2, 15, 88) ;
+    font-size: 4cap;
     text-align: center;
 }
-
-.jumbotron-fluid h1{
-    color: white;
-    font-size: 8rem;
-}
-
-.jumbotron-fluid p{
-    color: white;   
-}
-
-#footer{
-    background-color: blue;
+ol
+{
+    font-size: 20px;
+    list-style: none;
+    padding: 10px;
     text-align: center;
-    color: red;
-    bottom: 0px;
 }
-
-.list-grid ol{
-    column-count: 3;
+ol li a
+{
+    color: rgb(2, 15, 88);
+    text-shadow: 1px 0px rgb(128, 156, 241);
+    line-height: 2.5cap;
 }
-
-@media (max-width: 768px) {
-    .jumbotron-fluid h1 {
-        font-size: 4rem;
-    }
+ol li a:hover
+{
+    text-decoration:underline ;
+    text-decoration-style: wavy;
+    color: black;
+  font-weight: bolder ;
 }
-
