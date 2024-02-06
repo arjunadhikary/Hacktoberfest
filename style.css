@@ -64,12 +64,14 @@ h2
     text-decoration:underline ;
     color: rgb(2, 15, 88) ;
     font-size: 4cap;
+    text-align: center;
 }
 ol
 {
     font-size: 20px;
     list-style: none;
     padding: 10px;
+    text-align: center;
 }
 ol li a
 {
